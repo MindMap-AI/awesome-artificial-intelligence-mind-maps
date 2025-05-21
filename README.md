@@ -1,4 +1,4 @@
-# Awesome Artificial Intelligence Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Artificial Intelligence Mind Maps](https://mindmapai.app/mind-maps/psychology) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Supercharge AI initiatives with project management and mind maps AI to plan workflows, track innovations, and streamline development. Mind maps AI helps teams visualize complex systems, align objectives, and manage AI projects efficiently from concept to execution.
 
